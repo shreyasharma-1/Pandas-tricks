@@ -1,2 +1,2 @@
 # Pandas-tricks
-it's consist Pandas Series codes 
+it's consist Pandas Series and DataFrame codes 
